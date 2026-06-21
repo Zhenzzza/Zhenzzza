@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey there
 
-<!--
-**Zhenzzza/Zhenzzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Zhenz_za**, a Full Stack Developer with 2 years of experience building web applications.
 
-Here are some ideas to get you started:
+My primary focus is frontend development, where I enjoy creating modern, responsive, and user-friendly interfaces. At the same time, I have experience building backend applications and working on complete full stack projects from idea to implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I graduated with honors from the IT STEP Academy and completed a number of projects during my studies, including a thesis project, which can be found in my repositories.
+
+## Tech Stack
+
+* TypeScript
+* JavaScript
+* React
+* React Native
+* Vue
+* Node.js
+* Tailwind CSS
+* HTML
+* CSS
+
+## What I Build
+
+* Full Stack Web Applications
+* Frontend Interfaces
+* REST API Services
+* Authentication Systems
+* CRUD Applications
+* Mobile Applications with React Native
+
+## Featured Projects
+
+* Contact Manager
+* Resume Builder
+* Todo List
+* Keyboard Store
+
+## Video Editing
+
+Coming soon.
+
+## About Me
+
+* 2 years of development experience
+* Frontend-focused developer
+* Experience with full stack application development
+* Graduated from the IT STEP Academy with honors.
+* Always learning and improving through personal projects
