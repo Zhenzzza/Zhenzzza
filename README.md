@@ -1,4 +1,6 @@
-# Hey there
+# Hey there👋
+
+## About me🏆
 
 I'm **Zhenz_za**, a Full Stack Developer with 2 years of experience building web applications.
 
@@ -6,7 +8,7 @@ My primary focus is frontend development, where I enjoy creating modern, respons
 
 I graduated with honors from the IT STEP Academy and completed a number of projects during my studies, including a thesis project, which can be found in my repositories.
 
-## Tech Stack
+## Tech Stack⚙️
 
 * TypeScript
 * JavaScript
@@ -18,7 +20,7 @@ I graduated with honors from the IT STEP Academy and completed a number of proje
 * HTML
 * CSS
 
-## What I Build
+## What I Build💻
 
 * Full Stack Web Applications
 * Frontend Interfaces
@@ -27,21 +29,15 @@ I graduated with honors from the IT STEP Academy and completed a number of proje
 * CRUD Applications
 * Mobile Applications with React Native
 
-## Featured Projects
+## Featured Projects🎯
 
 * Contact Manager
 * Resume Builder
 * Todo List
 * Keyboard Store
 
-## Video Editing
+## Video Editing🎞️
 
 Coming soon.
 
-## About Me
-
-* 2 years of development experience
-* Frontend-focused developer
-* Experience with full stack application development
-* Graduated from the IT STEP Academy with honors.
-* Always learning and improving through personal projects
+##
