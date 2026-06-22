@@ -34,6 +34,6 @@ I graduated from IT STEP Academy with honors and completed a variety of projects
 * [Contact Manager](https://github.com/Zhenzzza/Contacts)
 * [Resume Builder](https://github.com/Zhenzzza/Resume)
 * [Todo List](https://github.com/Zhenzzza/Todo)
-* Keyboard Store
+* [Keyboard Store](https://github.com/Zhenzzza/Keyboard_Store)
 
 ---
