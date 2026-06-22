@@ -6,7 +6,7 @@ I'm **Zhenz_za**, a Full Stack Developer with 2 years of experience building web
 
 My primary focus is frontend development, where I enjoy creating modern, responsive, and user-friendly interfaces. At the same time, I have experience building backend applications and working on complete full stack projects from idea to implementation.
 
-I graduated with honors from the IT STEP Academy and completed a number of projects during my studies, including a thesis project, which can be found in my repositories.
+I graduated from IT STEP Academy with honors and completed a variety of projects during my studies, including my graduation project, which is available in my repositories.
 
 ## Tech Stack
 
