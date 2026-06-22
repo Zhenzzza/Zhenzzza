@@ -1,4 +1,4 @@
-## Hey there
+## Hey there👋
 
 # About me
 
@@ -8,7 +8,7 @@ My primary focus is frontend development, where I enjoy creating modern, respons
 
 I graduated with honors from the IT STEP Academy and completed a number of projects during my studies, including a thesis project, which can be found in my repositories.
 
-## Tech Stack⚙️
+## Tech Stack
 
 * TypeScript
 * JavaScript
@@ -20,7 +20,7 @@ I graduated with honors from the IT STEP Academy and completed a number of proje
 * HTML
 * CSS
 
-## What I Build💻
+## What I Build
 
 * Full Stack Web Applications
 * Frontend Interfaces
@@ -29,7 +29,7 @@ I graduated with honors from the IT STEP Academy and completed a number of proje
 * CRUD Applications
 * Mobile Applications with React Native
 
-## Featured Projects🎯
+## Featured Projects
 
 * [Contact Manager](https://github.com/Zhenzzza/Contacts)
 * [Resume Builder](https://github.com/Zhenzzza/Resume)
