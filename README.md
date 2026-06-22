@@ -1,6 +1,6 @@
-Hey there👋
+## Hey there
 
-## About me🏆
+# About me
 
 I'm **Zhenz_za**, a Full Stack Developer with 2 years of experience building web applications.
 
@@ -31,13 +31,9 @@ I graduated with honors from the IT STEP Academy and completed a number of proje
 
 ## Featured Projects🎯
 
-* Contact Manager
-* Resume Builder
-* Todo List
+* [Contact Manager](https://github.com/Zhenzzza/Contacts)
+* [Resume Builder](https://github.com/Zhenzzza/Resume)
+* [Todo List](https://github.com/Zhenzzza/Todo)
 * Keyboard Store
 
-## Video Editing🎞️
-
-Coming soon.
-
-##
+---
